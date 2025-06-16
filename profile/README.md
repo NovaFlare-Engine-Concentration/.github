@@ -1,8 +1,8 @@
 # NovaFlare-Engine-Concentration ✨🔥
 
-NovaFlare-Engine-Concentration is a branch of FNF Psych Engine, dedicated to providing excellent visual effects and user-friendly features. Our goal is to deliver a powerful,  and enjoyable development and gameplay experience for both creators and players.  
+NovaFlare-Engine is a branch of FNF [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine), dedicated to providing excellent visual effects and user-friendly features. Our goal is to deliver a powerful,  and enjoyable development and gameplay experience for both creators and players.  
 
-NovaFlare-Engine-Concentration 是 FNF Psych Engine 的一个分支，致力于为用户提供出色的视觉效果和易用的功能。我们的目标是为开发者和玩家带来强大、且愉快的开发与游戏体验。
+NovaFlare-Engine 是 FNF [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) 的一个分支，致力于为用户提供出色的视觉效果和易用的功能。我们的目标是为开发者和玩家带来强大、且愉快的开发与游戏体验。
 
 ---
 
@@ -35,8 +35,8 @@ NovaFlare-Engine-Concentration 是 FNF Psych Engine 的一个分支，致力于�
 
 ## Contributing / 参与贡献 🤝
 
-We welcome all contributions! Please read the [Contributing Guide](CONTRIBUTING.md) for more details.  
-欢迎所有人参与贡献！请阅读 [贡献指南](CONTRIBUTING.md) 了解更多细节。
+We welcome all contributions!
+欢迎所有人参与贡献！
 
 ---
 
